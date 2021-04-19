@@ -1,4 +1,4 @@
-# MAI-Systems-of-Analytical-Calculations
+# MAI-Systems-of-Analytical-Computations
 Лабы по курсу "Системы аналитических вычислений" в МАИ
 
 lab1 - исследование функции и перемещение квадрата  
